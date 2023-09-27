@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm a self taught Front-End Developer with a passion for learning new technologies and working on some exciting projects.😎
+Hi there, I'm Sarang Parre, a frontend developer with 2 years of experience. I specialize in React.js, and creating exceptional user interfaces. My coding journey began with a passion for digital innovation, and I'm dedicated to crafting user-friendly web experiences.
+
+I thrive in collaborative, creative environments and enjoy turning complex challenges into elegant solutions. Outside of work, I stay updated on design trends, attend tech meetups, and love a good book.
+
+I'm open to new opportunities and connections. Feel free to reach out if you'd like to connect or discuss frontend development projects.
+
+Thanks for visiting my profile!
 
 
 ## 🌐 Socials:
